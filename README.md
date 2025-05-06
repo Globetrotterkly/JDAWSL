@@ -1,6 +1,6 @@
 # Joint Domain Adaptation with Weight Self-Learning for Hyperspectral Few-Shot Classification
 
-This is a code demo for the paper "This is a code demo for the paper "Deep Cross-domain Few-shot Learning for Hyperspectral Image Classification""
+This is a code demo for the paper  "Joint Domain Adaptation with Weight Self-Learning for Hyperspectral Few-Shot Classification".
 
 ## dataset
 
