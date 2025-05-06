@@ -1,13 +1,14 @@
 # Joint Domain Adaptation with Weight Self-Learning for Hyperspectral Few-Shot Classification
-JDAWSL project
 
-
+This is a code demo for the paper "This is a code demo for the paper "Deep Cross-domain Few-shot Learning for Hyperspectral Image Classification""
 
 ## dataset
 
-You can download the preprocessed source domain data set (Chikusei_imdb_128.pickle) directly in pickle format, which is available in "https://pan.baidu.com/s/1cbVzKSBxcWdOH5xGzwIlgA?pwd=5xk7" , and move the files to `./datasets` folder.
+You can download the preprocessed source domain data set (Chikusei_imdb_128.pickle) directly in pickle format, which is available in "https://pan.baidu.com/s/1s17xLfJr_CksGXqOlf2PZw?pwd=o8xu" , and move the files to `./datasets` folder.
 
 The QUH-Qingyun and QUH-Pingan datasets are available at: https://github.com/Hang-Fu/QUH-classification-dataset.
+
+IP and SA datasets are available at: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes.
 
 ## example
 
