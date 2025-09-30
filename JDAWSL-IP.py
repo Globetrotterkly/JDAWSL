@@ -975,7 +975,7 @@ if __name__ == '__main__':
                             total_hit / total_num,
                             loss.item()))
 
-                if (episode + 1) % 500 == 0 or episode == 0:  # 开始测试
+                if (episode + 1) % 200 == 0 or episode == 0:  # 开始测试
                     # test
                     print("Testing ...")
                     train_end = time.time()
